@@ -1,7 +1,7 @@
 // App.jsx
 import React from "react";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Layout from "./layout/Layout";
+import Layout from "./layout/layout";
 import Syncpage from "./pages/todos-sync";
 import Asyncpage from "./pages/a";
 import TodoInfo from "./pages/infoById";
